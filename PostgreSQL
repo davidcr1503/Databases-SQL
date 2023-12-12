@@ -3,3 +3,9 @@
 - Object Oriented Concept
 - PostGIS/PL/PgSQL
 - ACID> Atomicity/Consistency/Isolation/Durability
+
+PostgreSQL Shell Commands (Most Used):
+- List All Databases \l
+- Tables From Database \dt
+- Change Database \c "name"
+- 
