@@ -5,5 +5,5 @@ Notes and Stuff from Platzi Course
 - No Relational Databases: Cassandra/Elasticsearch/Neo4j
 
 Class: Entities and Attributes>
--Chen Sheet:
+- Chen Sheet:
 ![Chen ID](https://github.com/davidcr1503/Databases-SQL/assets/126609974/2e007ce5-9c90-4f6f-bb0f-e67b19c7bd51)
