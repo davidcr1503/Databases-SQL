@@ -8,4 +8,5 @@ PostgreSQL Shell Commands (Most Used):
 - List All Databases \l
 - Tables From Database \dt
 - Change Database \c "name"
-- 
+- Clean Console Ctrl + L
+- See All Commands \h
